@@ -13,7 +13,7 @@
 
 In my role as a BIM Software Developer at Redcon Construction's Research and Development Department, I have gained valuable experience in BIM development and worked extensively with various Autodesk platforms and services. Some of the key areas I specialize in include:
 
-💻 APS (Autodesk Platforms Services) - Forge  
+💻 APS (Autodesk Platform Services) - Forge  
 💻 Revit API  
 💻 Navisworks API  
 💻 AutoCAD API  
