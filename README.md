@@ -24,7 +24,11 @@ In my role as a BIM Software Developer at Redcon Construction's Research and Dev
 💻 Node.js  
 💻 Python scripts  
 💻 VBA in Excel  
-
+💻 ASP.NET  
+💻 Flask  
+💻 WordPress  
+💻 SQLite 3  
+💻 Microsoft SQL Server  
 
 My work primarily involves leveraging these technologies to develop innovative solutions that optimize construction processes and enhance collaboration within project teams. I have successfully implemented BIM workflows, developed automation scripts, and created custom visualizations to improve efficiency and streamline construction management tasks.
 
